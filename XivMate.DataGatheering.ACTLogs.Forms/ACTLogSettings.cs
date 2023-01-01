@@ -1,8 +1,8 @@
 ﻿using System.Collections.Generic;
 using Newtonsoft.Json;
-using XivMate.DataGatheering.ACTLogs.Forms.LazyExtensions;
+using XivMate.DataGathering.ACTLogs.Forms.LazyExtensions;
 
-namespace XivMate.DataGatheering.ACTLogs.Forms;
+namespace XivMate.DataGathering.ACTLogs.Forms;
 
 public class ACTLogSettings
 {

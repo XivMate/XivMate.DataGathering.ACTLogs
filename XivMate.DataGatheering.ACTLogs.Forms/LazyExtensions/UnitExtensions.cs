@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace XivMate.DataGatheering.ACTLogs.Forms.LazyExtensions;
+namespace XivMate.DataGathering.ACTLogs.Forms.LazyExtensions;
 
 public static class UnitExtensions
 {

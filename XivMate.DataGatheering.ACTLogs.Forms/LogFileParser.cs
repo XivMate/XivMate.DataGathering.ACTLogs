@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Globalization;
 using System.Linq;
 
-namespace XivMate.DataGatheering.ACTLogs.Forms;
+namespace XivMate.DataGathering.ACTLogs.Forms;
 
 public class LogFileParser
 {

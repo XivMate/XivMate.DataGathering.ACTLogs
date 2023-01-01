@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Windows.Forms;
 
-namespace XivMate.DataGatheering.ACTLogs.Forms;
+namespace XivMate.DataGathering.ACTLogs.Forms;
 
 internal static class Program
 {

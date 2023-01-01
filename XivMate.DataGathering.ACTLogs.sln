@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32616.157
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XivMate.DataGatheering.ACTLogs.Forms", "XivMate.DataGatheering.ACTLogs.Forms\XivMate.DataGatheering.ACTLogs.Forms.csproj", "{E7C34073-BDBE-4E03-B2BF-821226BAA9AB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "XivMate.DataGathering.ACTLogs.Forms", "XivMate.DataGatheering.ACTLogs.Forms\XivMate.DataGathering.ACTLogs.Forms.csproj", "{E7C34073-BDBE-4E03-B2BF-821226BAA9AB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XivMate.DataGatheering.ACTLogs.FormsTests", "XivMate.DataGatheering.ACTLogs.FormsTests\XivMate.DataGatheering.ACTLogs.FormsTests.csproj", "{45BD9C0C-575F-4D99-B86E-F9E94B270218}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XivMate.DataGathering.ACTLogs.FormsTests", "XivMate.DataGatheering.ACTLogs.FormsTests\XivMate.DataGathering.ACTLogs.FormsTests.csproj", "{45BD9C0C-575F-4D99-B86E-F9E94B270218}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

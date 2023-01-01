@@ -1,4 +1,4 @@
-﻿namespace XivMate.DataGatheering.ACTLogs.Forms;
+﻿namespace XivMate.DataGathering.ACTLogs.Forms;
 
 /// <summary>
 ///     The FFXIV chat types as seen in the LogKind ex table.

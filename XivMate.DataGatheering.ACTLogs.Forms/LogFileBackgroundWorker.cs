@@ -3,7 +3,7 @@ using System.ComponentModel;
 using System.IO;
 using System.Linq;
 
-namespace XivMate.DataGatheering.ACTLogs.Forms;
+namespace XivMate.DataGathering.ACTLogs.Forms;
 
 internal class LogFileBackgroundWorker : BackgroundWorker
 {

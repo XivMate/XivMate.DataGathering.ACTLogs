@@ -12,7 +12,7 @@
     <Otherwise />
   </Choose>
   <ItemGroup>
-    <ProjectReference Include="..\XivMate.DataGatheering.ACTLogs.Forms\XivMate.DataGatheering.ACTLogs.Forms.csproj" />
+    <ProjectReference Include="..\XivMate.DataGatheering.ACTLogs.Forms\XivMate.DataGathering.ACTLogs.Forms.csproj" />
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="Microsoft.NET.Test.Sdk" Version="16.*" />

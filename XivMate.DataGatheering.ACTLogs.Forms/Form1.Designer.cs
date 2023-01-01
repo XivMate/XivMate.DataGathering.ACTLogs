@@ -1,4 +1,4 @@
-﻿namespace XivMate.DataGatheering.ACTLogs.Forms
+﻿namespace XivMate.DataGathering.ACTLogs.Forms
 {
     partial class Form1
     {
@@ -161,7 +161,7 @@
             // 
             // aCTLogFileBindingSource
             // 
-            this.aCTLogFileBindingSource.DataSource = typeof(XivMate.DataGatheering.ACTLogs.Forms.ACTLogFile);
+            this.aCTLogFileBindingSource.DataSource = typeof(ACTLogFile);
             // 
             // outputLogTxt
             // 

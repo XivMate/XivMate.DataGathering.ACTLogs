@@ -1,6 +1,7 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
+using XivMate.DataGathering.ACTLogs.Forms;
 
-namespace XivMate.DataGatheering.ACTLogs.Forms.Tests
+namespace XivMate.DataGathering.ACTLogs.FormsTests
 {
     [TestClass]
     public class LogFileParserTests

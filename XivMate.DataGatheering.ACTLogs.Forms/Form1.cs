@@ -4,9 +4,8 @@ using System.IO;
 using System.Linq;
 using System.Windows.Forms;
 using Newtonsoft.Json;
-using XivMate.DataGatheering.ACTLogs.Forms.Properties;
 
-namespace XivMate.DataGatheering.ACTLogs.Forms;
+namespace XivMate.DataGathering.ACTLogs.Forms;
 
 public partial class Form1 : Form
 {
