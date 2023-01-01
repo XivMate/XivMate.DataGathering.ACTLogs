@@ -22,10 +22,10 @@ public partial class Form1 : Form
 
     private void Form1_Load(object sender, EventArgs e)
     {
-        var logLocation = Environment.ExpandEnvironmentVariables(Settings.Default.ACTLogLocation);
+        var logLocation = Environment.ExpandEnvironmentVariables("%appdata%\\Advanced Combat Tracker\\FFXIVLogs\\");
         actLogLocationTextBox.Text = logLocation;
 
-        var outputLocation = Environment.ExpandEnvironmentVariables(Settings.Default.OutputDirectory);
+        var outputLocation = Environment.ExpandEnvironmentVariables("%appdata%\\XivMate");
         outputLogTxt.Text=outputLocation;
     }
 
